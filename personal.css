@@ -3,6 +3,10 @@ html {
     font-family: 'Amatic SC', cursive;
 }
 
+p {
+    font-size: 10px;
+}
+
 h1 {
     font-size: 50px;
     text-align: center;
