@@ -1,17 +1,14 @@
 html {
     background: cornflowerblue;
     font-family: 'Amatic SC', cursive;
-    
 }
 
-div {
+#heading {
     width: 100%;
     height: auto;
 }
 
 h1 {
-    color: black;
-    font-size: 10%;
     text-align: center;
 }
 
