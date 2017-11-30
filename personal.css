@@ -4,12 +4,15 @@ html {
 }
 
 #heading {
+    position: absolute;
+    top: 25%;
+    left: 25%;
     width: 100%;
     height: auto;
 }
 
 h1 {
-    font-size: 8%;
+    font-size: 25%;
     text-align: center;
 }
 
