@@ -3,8 +3,9 @@ html {
     font-family: 'Amatic SC', cursive;
 }
 
-p {
+#scroll {
     font-size: 12px;
+    font-weight: bolder;
 }
 
 h1 {
