@@ -1,6 +1,5 @@
 html {
     background: cornflowerblue;
-    font-family: 'Amatic SC', cursive;
 }
 
 #wrapper {
@@ -26,7 +25,8 @@ html {
 }
 
 h1 {
-    font-size: 100px;
+	font-family: 'Amatic SC', cursive;
+    font-size: 150px;
     text-align: center;
 }
 
@@ -36,6 +36,7 @@ h1 {
 }
 
 #message {
+	font-family: 'Kalam', cursive;
     text-align: center;
     font-size: 65px;
 }
