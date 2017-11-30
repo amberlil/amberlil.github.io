@@ -18,3 +18,7 @@ h1 {
     height: auto;
 }
 
+#message {
+    text-align: center;
+    font-size: 65px;
+}
