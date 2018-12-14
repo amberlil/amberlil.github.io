@@ -1,11 +1,18 @@
 html {
-    background: pink;
+    background: #a8f098;
 }
 
 #wrapper {
 	width: 100%;
 	height: 100%;
 	overflow: hidden;
+}
+
+#centerpiece {
+    margin-right: 20%;
+    margin-left: 20%;
+    color: saddlebrown;
+    opacity: 5%;
 }
 
 #left {
